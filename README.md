@@ -88,7 +88,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=doyoung0013&show_icons=true&theme=radical&hide_border=true" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doyoung0013&theme=radical&hide_border=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doyoung0013&theme=default" />
 </div>
 
 ---
