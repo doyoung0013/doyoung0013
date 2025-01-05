@@ -74,7 +74,7 @@
 
 <div align="center">
   
-  | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doyoung0013&layout=compact&langs_count=6) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doyoung0013&show_icons=true&theme=transparent) |
+   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doyoung0013&layout=compact&langs_count=6) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doyoung0013&show_icons=true&theme=transparent) 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doyoung0013&theme=default" />
 </div>
   
