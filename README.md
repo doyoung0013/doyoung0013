@@ -2,15 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,100:DA5B0B&height=200&section=header&text=Backend%20Developer&fontSize=50&animation=fadeIn&fontAlignY=40" />
 </div>
 
-<div align="center">
-  
-  # 👋 About Me
-  
-  안녕하세요! 데이터를 다루는 것을 좋아하는 백엔드 개발자입니다.   
-  빅데이터 분석 경험을 바탕으로 효율적인 데이터 처리와 안정적인 서버 구축에 관심이 많습니다.
-  
-</div>
-
 ---
 
 <div align="center">
@@ -86,7 +77,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doyoung0013&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=doyoung0013&show_icons=true&theme=transparent&hide_border=true" />
   <br><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doyoung0013&theme=default" />
 </div>
