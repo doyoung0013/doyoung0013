@@ -77,7 +77,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyoung0013&layout=compact&langs_count=6" />
     <img src="https://github-readme-stats.vercel.app/api?username=doyoung0013&show_icons=true&theme=transparent" />
   </div>
-  <br><br>
+  <br>
+  <!-- 왼쪽 열 -->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyoung0013&layout=compact&langs_count=6" />
+
+<!-- 오른쪽 열 -->
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=doyoung0013&show_icons=true&theme=transparent" />
 </div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doyoung0013&theme=default" />
   
