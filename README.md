@@ -6,9 +6,10 @@
 
 - 멋쟁이 사자처럼 2024 실험실 팀빌딩 해커톤 경진대회 대상 (LUMINA) : https://www.luminapro.co.kr/
 - SQLD (SQL Developer) 자격증 보유
+- 'OPEN API를 활용한 자바기반 챗봇 웹개발자 양성과정' 부트캠프 최우수 수료
 - 빅데이터 분석 학회 (BDA) 6기 우수학회원 수료
 - GDG (Google Developer Groups) 소속
-- 그린컴퓨터아카데미 자바 부트캠프 최우수 수료
+
 
 ---
 
