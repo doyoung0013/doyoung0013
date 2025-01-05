@@ -1,19 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,100:DA5B0B&height=200&section=header&text=Backend%20Developer&fontSize=50&animation=fadeIn&fontAlignY=40" />
-</div>
-
----
-
-<div align="center">
   
-  ## 🎓 Experience & Achievement
+  ## 🎓 Achievement & Experience
   
 </div>
 
+- 멋쟁이 사자처럼 팀빌딩 창업 해커톤 대상 (LUMINA)
+- SQLD (SQL Developer) 자격증 보유
 - 빅데이터 분석 학회 (BDA) 6기 우수학회원 수료
 - GDG (Google Developer Groups) 소속
-- SQLD (SQL Developer) 자격증 보유
-- 멋쟁이 사자처럼 팀빌딩 창업 해커톤 대상 (LUMINA)
 
 ---
 
@@ -83,6 +77,10 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=doyoung0013&show_icons=true&theme=transparent" />
   <br><br>
+  <div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=doyoung0013&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyoung0013&layout=compact&theme=radical&hide_border=true" />
+</div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doyoung0013&theme=default" />
   
 </div>
