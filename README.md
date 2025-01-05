@@ -8,6 +8,7 @@
 - SQLD (SQL Developer) 자격증 보유
 - 빅데이터 분석 학회 (BDA) 6기 우수학회원 수료
 - GDG (Google Developer Groups) 소속
+- 그린컴퓨터아카데미 자바 부트캠프 최우수 수료
 
 ---
 
