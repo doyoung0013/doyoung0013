@@ -79,10 +79,12 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyoung0013&layout=compact&hide_border=true&langs_count=6" />
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=doyoung0013&show_icons=true&theme=transparent&hide_border=true" />
   <br><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doyoung0013&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyoung0013&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+  
 </div>
 
 ---
