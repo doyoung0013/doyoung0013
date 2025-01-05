@@ -4,7 +4,7 @@
   
 </div>
 
-- 멋쟁이 사자처럼 팀빌딩 창업 해커톤 대상 (LUMINA)
+- 멋쟁이 사자처럼 팀빌딩 창업 해커톤 대상 (LUMINA) : https://www.luminapro.co.kr/
 - SQLD (SQL Developer) 자격증 보유
 - 빅데이터 분석 학회 (BDA) 6기 우수학회원 수료
 - GDG (Google Developer Groups) 소속
