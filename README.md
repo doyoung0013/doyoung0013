@@ -9,14 +9,10 @@
 ### 💻 Tech Stack
 **Backend**
 - Java / Spring Boot
-- Python / Django
-- Node.js / Express
-- MySQL, PostgreSQL
-- MongoDB
+- MySQL
 
 **DevOps & Tools**
 - Git, GitHub
-- Docker
 - AWS (EC2, RDS)
 - Linux
 
