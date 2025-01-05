@@ -73,13 +73,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyoung0013&layout=compact&langs_count=6" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=doyoung0013&show_icons=true&theme=transparent" />
-  <br><br>
   <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=doyoung0013&count_private=true&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyoung0013&layout=compact&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyoung0013&layout=compact&langs_count=6" />
+    <img src="https://github-readme-stats.vercel.app/api?username=doyoung0013&show_icons=true&theme=transparent" />
+  </div>
+  <br><br>
 </div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doyoung0013&theme=default" />
   
